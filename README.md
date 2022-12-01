@@ -1,2 +1,3 @@
-# ZombieGame
-# open -n -a love "/Users/chrismac/Desktop/Outbreak"
+#Outbreak
+
+A top-down, 2D zombie shooter game developed in Lua in collaboration with Ethan Ramchandani
